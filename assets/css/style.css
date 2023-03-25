@@ -1,0 +1,103 @@
+/* Set the font and font size for the entire page */
+body {
+  font-family: "Open Sans", sans-serif;
+  font-size: 16px;
+}
+
+/* Style the textareas used for user input */
+textarea {
+  background: lightgoldenrodyellow;
+  border: none;
+  resize: none;
+  color: #000000;
+  border-left: 1px solid black;
+  padding: 10px;
+}
+
+/* Style the header with the "Work Day Scheduler" title */
+.display-4 {
+  font-size: calc(1.475rem + 2.7vw);
+  font-weight: 300;
+  line-height: 1.2;
+  padding-top: 20px;
+}
+
+/* Style the top section of the page, which includes the title and other information */
+.top {
+  text-align: center;
+  background-color: orange;
+  color: black;
+  margin-bottom: 20px;
+}
+
+/* Set a margin-bottom for the currentDateTime and clearDay elements in the top section */
+#currentDateTime,
+#clearDay.btn.btn-outline-success {
+  margin-bottom: 20px;
+}
+
+/* Allow line breaks in the textarea elements */
+.description {
+  white-space: pre-wrap;
+}
+
+/* Style the time blocks that appear on the page */
+.time-block {
+  border-radius: 15px;
+  margin: 20px;
+}
+
+/* Style the row that contains each time block */
+.row {
+  border-top: 1px solid white;
+}
+
+/* Style the hour label for each time block */
+.hour {
+  background-color: #ffffff;
+  color: #000000;
+  border-top: 1px solid whitesmoke;
+}
+
+/* Style the time blocks that have already passed */
+.past {
+  background-color: #d3d3d3;
+  color: white;
+}
+
+/* Style the time block for the current hour */
+.present {
+  background-color: #ff6961;
+  color: white;
+}
+
+/* Style the time blocks that are in the future */
+.future {
+  background-color: #77dd77;
+  color: white;
+}
+
+/* Style the save button for each time block */
+.saveBtn {
+  border-left: 1px solid black;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color: rgb(0, 149, 255);
+  color: white;
+}
+
+/* Style the save button icon on hover */
+.saveBtn i:hover {
+  font-size: 20px;
+  transition: all 0.3s ease-in-out;
+}
+
+/* Style the footer section of the page */
+.footer {
+  text-align: center;
+  background-color: orange;
+  color: black;
+  padding: 20px;
+  margin-bottom: auto;
+  margin-top: 20px;
+}

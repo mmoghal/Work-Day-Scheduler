@@ -54,11 +54,9 @@ To clear your entire schedule, click the "Clear Day" button. This will clear all
 
 This application was developed using HTML, CSS, and JavaScript. 
 
-1.      Visit [Deployed Application](https://mmoghal.github.io/work-day-scheduler/) for Work-Day-Scheduler
+1.  Visit [Deployed Application](https://mmoghal.github.io/work-day-scheduler/) for Work-Day-Scheduler
 
-2.      Application Image
-
-![alt Image of the application](https://github.com/mmoghal/work-day-scheduler/blob/main/assets/images/dayplanner.png)
+2.  Application Image ![alt Image of the application](https://github.com/mmoghal/work-day-scheduler/blob/main/assets/images/dayplanner.png)
 
 
 ## Credits

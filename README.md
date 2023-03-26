@@ -8,36 +8,36 @@ This is a simple day planner application that allows users to input and save the
 
 The day planner application provides the following features:
 
-.   The current date and time is displayed at the top of the page.
+.       The current date and time is displayed at the top of the page.
 
-.   Hourly time slots are displayed from 9am to 5pm.
+.       Hourly time slots are displayed from 9am to 5pm.
 
-.   Each hourly time slot contains a text input field and a "Save" button.
+.       Each hourly time slot contains a text input field and a "Save" button.
 
-.   User input is saved to local storage when the "Save" button is clicked.
+.       User input is saved to local storage when the "Save" button is clicked.
 
-.   User input is retrieved from local storage and displayed in the corresponding time slot on page load.
+.       User input is retrieved from local storage and displayed in the corresponding time slot on page load.
 
-.   The background color of each time slot changes based on whether it is in the past, present, or future.
+.       The background color of each time slot changes based on whether it is in the past, present, or future.
 
-.   The "Clear Schedule" button can be used to clear all user input from local storage and refresh the page.
+.       The "Clear Schedule" button can be used to clear all user input from local storage and refresh the page.
 
 
 ## Table of Contents
 
-.   Description
+.       Description
 
-.   Features
+.       Features
 
-.   Installation
+.       Installation
 
-.   Usage
+.       Usage
 
-.   Development
+.       Development
 
-.   Credits
+.       Credits
 
-.   License
+.       License
 
 ## Installation
 
@@ -54,9 +54,9 @@ To clear your entire schedule, click the "Clear Day" button. This will clear all
 
 This application was developed using HTML, CSS, and JavaScript. 
 
-1. Visit [Deployed Application](https://mmoghal.github.io/work-day-scheduler/) for Work-Day-Scheduler
+1.      Visit [Deployed Application](https://mmoghal.github.io/work-day-scheduler/) for Work-Day-Scheduler
 
-2. Application Image
+2.      Application Image
 
 ![alt Image of the application](https://github.com/mmoghal/work-day-scheduler/blob/main/assets/images/dayplanner.png)
 
@@ -65,9 +65,9 @@ This application was developed using HTML, CSS, and JavaScript.
 
 This day planner application was built by Muhammad Moghal using the following resources:
 
-.   Day.js - A JavaScript library for date and time formatting.
+.       Day.js - A JavaScript library for date and time formatting.
 
-.   Bootstrap - A popular CSS framework for building responsive web applications.
+.       Bootstrap - A popular CSS framework for building responsive web applications.
 
 
 ## License

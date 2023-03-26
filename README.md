@@ -46,7 +46,7 @@ To use this day planner application, simply download the source code and open th
 
 Once the day planner application is open in a web browser, simply enter your schedule for each hourly time slot and click the "Save" button. Your schedule will be saved to local storage and displayed on page load.
 
-To clear your entire schedule, click the "Clear Day" button. This will clear all user input from local storage and refresh the page.
+To clear your entire schedule, click the "Clear Schedule" button. This will clear all user input from local storage and refresh the page.
 
 ## Development
 
